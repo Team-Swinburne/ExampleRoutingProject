@@ -1,6 +1,6 @@
 # Welcome!
 
-Please try routing this project - we'll be back next week.
+Please try routing SampleLayout - we'll be back next week.
 
 ![Schematic](https://github.com/Team-Swinburne/ExampleRoutingProject/blob/main/images/schematic.png)
 
