@@ -1,0 +1,12 @@
+Look, I'm probably going to accidentally upload this before Tuesday next week... and that's fine, 
+anyone that sees it was being inovative and resourceful!
+
+Missing components:
+    Auxillary Supply:
+    -   Front-end fuse (Optional - justify why/why not - when is it needed)
+    -   Filtering inductor or choke
+
+    Diff Pair Setup Incorrect
+    -   Trick, it actually isn't it's fine.
+
+    Pitch to close
