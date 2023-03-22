@@ -10,3 +10,4 @@ Missing components:
     -   Trick, it actually isn't it's fine.
 
     Pitch to close
+    -   Ignore pad to pad clearances in the same footprint.
